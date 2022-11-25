@@ -3,7 +3,6 @@
 ## Notes
 
 - All weights are in terms of peeled/prepared/cut fruits.
-- 1 portion banana = 250g
 - Banana peel is ~1/3 of the banana weight
 - All ingredients are frozen when put in the blender, with the obvious exception of orange juice (OJ) and milk
 - A quality blender matters a lot: in terms of taste, it improves it, and drastically improves it when freezing the blend and eating it later (a rough blend will feels a bit like crushed ice with a fruity taste, whereas the finer blend will give you the fully fruity taste). It also can save you a lot of the time you'd spend to blend the frozen ingredients; from 20 minutes, it now takes me 3-4 mins at worst.
@@ -35,19 +34,19 @@ It will yield about 3 cups of smoothie.
 
 ### Strawberry (the classic)
 
-- 1 banana portion
+- 250g banana
 - 75g strawberry
 - 5-6oz milk
 
 ### Blueberry
 
-- 1 banana portion
+- 250g banana
 - 75-80g blackberries
 - 4-5oz milk
 
 ### Blackberry
 
-- 1 banana portion
+- 250g banana
 - 75-80g blackberries
 - 4-5oz milk
 
@@ -64,7 +63,7 @@ Notes:
 
 ### Raspberry
 
-- 1 banana portion
+- 250g banana
 - 75-80g raspberry
 - 1-2 chunk mango
 - 5 oz milk
@@ -73,13 +72,13 @@ For intense: 160g raspberries and no mago
 
 ### Peach
 
-- 1 banana portion
+- 250g banana
 - 75-80g peaches chunks
 - 4-5oz milk
 
 ### Watermelon
 
-- 1 banana portion
+- 250g banana
 - 150g watermelon
 - 5-6oz milk
 - Touch of honey (about a teaspon)
@@ -88,7 +87,7 @@ Note: By far, the best smoothie in terms of taste (immediately, and after freezi
 
 ### Pineapple (strawberry/mango/raspberry)
 
-- 1 banana portion
+- 250g banana
 - 150g pineapple (and if there is any in the container, its juice)
 - ~50g strawberry, or 3-4 chunks mangos, or ~50g raspberry
 - 4-6oz milk
@@ -98,14 +97,14 @@ For intense, replace milk by orange juice
 
 ### Forest fruits
 
-- 1 banana portion
+- 250g banana
 - 75g forest fruit mix (strawberry, blackberry, and raspberry)
 - 4 mango chunks
 - 3 oz milk
 
 ### Papaya
 
-- 1 banana portion
+- 250g banana
 - 150g papaya
 - Optionally, 40g strawberry
 - 4-5oz milk
