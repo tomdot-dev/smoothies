@@ -69,6 +69,9 @@ For intense, replace milk by orange juice
 
 - 250g banana
 - 75g forest fruit mix (strawberry, blackberry, and raspberry)
+  - 30g strawberry
+  - 30g blackberry
+  - 15g raspberry
 - 4 mango chunks
 - 3 oz milk
 
