@@ -1,0 +1,7 @@
+ - From a taste perspective, the fat amount in milk doesn't seem to matter much
+ - Selection on blender (see [notes](notes.md)): Spoonable -> Bowl => Best taste when freezing the result
+ - Add a touch of honey to make it even more amazing when freezing the blend and eating it later. Less than a teaspon otherwise the sugary taste will take over the fruit taste.
+ - Avoid yogurt (only tried yogurt without added sugar) as it is acid and kills the taste of fruits, even more when freezing the blend
+ - When using frozen ingredients, know that prepackaged fruits are cheaper than fresh ones, and has little difference in terms of taste (maybe the exception is kiwi - NEEDS testing)
+ - Avoid prepackaged bananas (or mix with it), as it doesn't seem to last as long as other fruits in the freezer, and it also spoils much quicker (and taste is bad)
+ - When freezing the blend, ideally, make a 1/2 inch (or ~1cm tall layer) in containers. When taking it out of the freezer, let it sit 15-20 minutes before eating. If using popsicles-type containers, put room temperature water in a cup and put the popsicle underneath in it. Wait 30 second, then wiggle the stick, and it should come out. You can (and should) eat it immediately.
