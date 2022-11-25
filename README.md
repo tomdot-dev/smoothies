@@ -28,8 +28,8 @@ It will yield about 3 cups of smoothie (or ~720ml).
 - 50-60g strawberries
 
 Notes:
-- Avoid just using acai (with banana), or milk as acai seem to somewhat kill the taste (but not the texture)
-- Just acai with banana plus milk is great when frozen, slight chocolaty taste
+- Avoid just using açaí (with banana), or milk as açaí seem to somewhat kill the taste (but not the texture)
+- Just açaí with banana plus milk is great when frozen, it has a slight chocolaty taste
 
 ## Raspberry
 
