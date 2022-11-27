@@ -65,6 +65,15 @@ Note: By far, the best smoothie in terms of taste (immediately, and after freezi
 
 For intense, replace milk by orange juice
 
+## Pineapple Mango
+
+- 250g banana
+- 150g pineapple (and if there is any in the container, its juice)
+- 100g mango
+- 6oz milk
+
+Note: It differs with the above one as the taste of pineapple is much more mellow/subdued, but nonetheless present
+
 ## Forest fruits
 
 - 250g banana
