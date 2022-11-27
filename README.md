@@ -38,7 +38,7 @@ Notes:
 - 1-2 chunk mango
 - 5 oz milk
 
-For intense taste: 160g raspberries and no mago
+For intense taste: 160g raspberries and no mango
 
 ## Peach
 
