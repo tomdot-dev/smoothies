@@ -72,7 +72,9 @@ For intense, replace milk by orange juice
 - 100g mango
 - 6oz milk
 
-Note: It differs with the above one as the taste of pineapple is much more mellow/subdued, but nonetheless present
+Notes:
+- It differs with the above one as the taste of pineapple is much more mellow/subdued, but nonetheless present
+- Amazingly delicious (immediately and frozen), by a lot, and second place in terms of taste after the watermelon one
 
 ## Carrot, Pineapple, Mango, and Passion fruit
 
