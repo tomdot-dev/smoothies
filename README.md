@@ -74,6 +74,20 @@ For intense, replace milk by orange juice
 
 Note: It differs with the above one as the taste of pineapple is much more mellow/subdued, but nonetheless present
 
+## Carrot, Pineapple, Mango, and Passion fruit
+
+- 250g banana
+- 60g carrots
+- 40g pineapple
+- 30g mango
+- 20g passionfruit
+- 6oz milk
+
+Notes:
+- Carrots/pineapple/mango/passion fruit came from a prepackaged frozen mix
+- Even though the quantity of carrots is high in comparison of other fruits, the taste is actually quite faint
+- Surprisingly, it tastes good
+
 ## Forest fruits
 
 - 250g banana
