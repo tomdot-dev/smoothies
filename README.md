@@ -55,20 +55,24 @@ For intense taste: 160g raspberries and no mango
 
 Note: By far, the best smoothie in terms of taste (immediately, and after freezing), beats the classic banana, strawberry, and milk.
 
-## Pineapple (strawberry/mango/raspberry)
+## Pineapple
 
+Base recipe:
 - 250g banana
 - 150g pineapple (and if there is any in the container, its juice)
-- ~50g strawberry, or 3-4 chunks mangos, or ~50g raspberry
 - 4-6oz milk
-- 3-4 chunks of mango (1cm cubes)
 
-For intense, replace milk by orange juice
+To intensify the taste of pineapple, replace milk by orange juice
 
-## Pineapple Mango
+Adding 50g of one of the following fruits adds a light touch of them:
+- strawberry
+- mango (3-4 chunks of 1cm cubes)
+- raspberry
+- blueberry
 
-- 250g banana
-- 150g pineapple (and if there is any in the container, its juice)
+### Pineapple Mango
+
+Using the base recipe without any additional fruit, add:
 - 100g mango
 - 6oz milk
 
@@ -76,9 +80,17 @@ Notes:
 - It differs with the above one as the taste of pineapple is much more mellow/subdued, but nonetheless present
 - Amazingly delicious (immediately and frozen), by a lot, and second place in terms of taste after the watermelon one
 
-## Carrot, Pineapple, Mango, and Passion fruit
+### Pineapple Blueberry
 
-- 250g banana
+Using the base recipe without any additional fruit, add:
+- 150g mango
+- 6oz milk
+
+Note: Pineapple taste is still present; you'd probably need 200-250g of them to mellow the pineapple taste as much as the mango
+
+### Pineapple, Carrot, Mango, and Passion fruit
+
+Using the base recipe without any additional fruit, add:
 - 60g carrots
 - 40g pineapple
 - 30g mango
