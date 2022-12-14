@@ -53,7 +53,9 @@ For intense taste: 160g raspberries and no mango
 - 5-6oz milk
 - Touch of honey (about a teaspon)
 
-Note: By far, the best smoothie in terms of taste (immediately, and after freezing), beats the classic banana, strawberry, and milk.
+Notes:
+- By far, the best smoothie in terms of taste (immediately, and after freezing), beats the classic banana, strawberry, and milk.
+- Using more than 3/5 proportion for watermelon (compared to bananas) will make it start to taste watered down. 
 
 ## Pineapple
 
