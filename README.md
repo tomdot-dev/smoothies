@@ -122,3 +122,9 @@ Notes:
 - 4-5oz milk
 
 Note: papaya doesn't have a strong taste, so double papaya and strawberry amounts for intense
+
+## Cantaloupe
+
+- 250g banana
+- 200g cantaloupe
+- 5oz milk
