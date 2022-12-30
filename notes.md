@@ -8,7 +8,7 @@
 
 ## Fruits to avoid
 
-- Melon: just doesn't taste great
+- Honeydew Melon: just doesn't taste great
 - Kiwi: tastes awful (at least the pre-frozen ones)
 - Pears: a bit more chunky than other fruits, and not that great in terms of taste
 - Apples: likely similar to pears
