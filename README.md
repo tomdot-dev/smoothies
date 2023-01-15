@@ -128,3 +128,11 @@ Note: papaya doesn't have a strong taste, so double papaya and strawberry amount
 - 250g banana
 - 200g cantaloupe
 - 5oz milk
+
+## Cherry
+
+- 250g banana
+- 250g cherries
+- 4oz milk
+
+Note: Same amount as banana is the minimum to meaningfully taste cherries; banana taste still present and may want to add more cherries.
