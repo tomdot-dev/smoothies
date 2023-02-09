@@ -142,3 +142,11 @@ Note: Banana taste still a bit present (at least right after blending, but defin
 - 250g banana
 - 200g guava pulp
 - 5oz milk
+
+## Passion fruit
+
+- 250g banana
+- 200g passion fruit pulp
+- 5oz milk
+
+Note: It is fairly sour/acidic, and maybe adding mangoes helps bring sour/acidic taste down
