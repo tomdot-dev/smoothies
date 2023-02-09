@@ -135,7 +135,7 @@ Note: papaya doesn't have a strong taste, so double papaya and strawberry amount
 - 200g cherries
 - 4oz milk
 
-Note: Banana taste still a bit present and may want to add more cherries.
+Note: Banana taste still a bit present (at least right after blending, but definitely not after freezing) and may want to add more cherries.
 
 ## Guava
 
