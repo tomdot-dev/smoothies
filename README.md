@@ -150,3 +150,11 @@ Note: Banana taste still a bit present (at least right after blending, but defin
 - 5oz milk
 
 Note: It is fairly sour/acidic, and maybe adding mangoes helps bring sour/acidic taste down
+
+## Orange
+
+- 250g banana
+- 125g orange
+- 5oz milk
+
+Note: It has a light taste, and isn't acidic at all, as one would expect.
