@@ -149,7 +149,7 @@ Note: Banana taste still a bit present (at least right after blending, but defin
 - 200g passion fruit pulp
 - 5oz milk
 
-Note: It is fairly sour, and maybe adding mangoes helps bring sour taste down
+Note: It is fairly sour, much more than pineapple, and maybe adding mangoes helps bring sour taste down
 
 ## Orange
 
