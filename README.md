@@ -1,7 +1,5 @@
 # Smoothies recipes
 
-It will yield about 3 cups of smoothie (or ~720ml).
-
 ## Strawberry (the classic)
 
 - 250g banana
