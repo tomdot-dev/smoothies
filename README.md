@@ -149,7 +149,7 @@ Note: Banana taste still a bit present (at least right after blending, but defin
 - 200g passion fruit pulp
 - 5oz milk
 
-Note: It is fairly sour/acidic, and maybe adding mangoes helps bring sour/acidic taste down
+Note: It is fairly sour, and maybe adding mangoes helps bring sour taste down
 
 ## Orange
 
@@ -157,4 +157,4 @@ Note: It is fairly sour/acidic, and maybe adding mangoes helps bring sour/acidic
 - 125g orange
 - 5oz milk
 
-Note: It has a light taste, and isn't acidic at all, as one would expect.
+Note: It has a light taste, and isn't sour at all, as one would expect.
