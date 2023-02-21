@@ -156,3 +156,11 @@ Note: It is fairly sour, much more than pineapple, and maybe adding mangoes help
 - 5oz milk
 
 Note: It has a light taste, and isn't sour at all, as one would expect.
+
+## Plum
+
+- 250g banana
+- 150g plums (without skin)
+- 4oz milk
+
+Note: Plum taste is not very strong
