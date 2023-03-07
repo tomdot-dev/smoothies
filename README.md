@@ -164,3 +164,9 @@ Note: It has a light taste, and isn't sour at all, as one would expect.
 - 4oz milk
 
 Note: Plum taste is not very strong
+
+## Soursop
+
+- 250g banana
+- 200g soursop pulp
+- 5oz milk
