@@ -170,3 +170,11 @@ Note: Plum taste is not very strong
 - 250g banana
 - 200g soursop pulp
 - 5oz milk
+
+## Lulo
+
+- 250g banana
+- 150g lulo
+- 6oz milk
+
+Note: it is fairly sour, and the additional milk helps a bit
