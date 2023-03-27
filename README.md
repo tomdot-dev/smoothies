@@ -9,7 +9,7 @@
 ## Blueberry
 
 - 250g banana
-- 75-80g blackberries
+- 75-80g blueberries
 - 4-5oz milk
 
 ## Blackberry
