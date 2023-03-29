@@ -69,6 +69,7 @@ Adding 50g of one of the following fruits adds a light touch of them:
 - mango (3-4 chunks of 1cm cubes)
 - raspberry
 - blueberry
+- watermelon
 
 ### Pineapple Mango
 
