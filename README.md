@@ -187,3 +187,9 @@ Note: it is fairly sour, and the additional milk helps a bit
 - 4oz milk
 
 Note: It is sour, but not as much as lulo
+
+## Dragonfruit
+
+- 250g banana
+- 150g lulo
+- 4oz milk
