@@ -179,3 +179,11 @@ Note: Plum taste is not very strong
 - 6oz milk
 
 Note: it is fairly sour, and the additional milk helps a bit
+
+## Tamarind
+
+- 250g banana
+- 75g lulo
+- 4oz milk
+
+Note: It is sour, but not as much as lulo
